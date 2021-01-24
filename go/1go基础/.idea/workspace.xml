@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d9c9a2-8ad3-466b-b187-48ab2f83e4ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:/go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../.." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHsFhVmwmHJmY7V3mM5u5WKP6m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day4interface" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\Project\src\project2\day7errorhandle\4customerror\1customerror" />
+      <recent name="D:\IDEA\Project\src\project2\day5filereadandwrite\5copy" />
+      <recent name="D:\IDEA\Project\src\project2\day5filereadandwrite\1openfile" />
+      <recent name="D:\IDEA\Project\src\project2\day5filereadandwrite\3easyread\read" />
+      <recent name="D:\IDEA\Project\src\project2\day5filereadandwrite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\Project\src\project2\day4interface" />
+      <recent name="D:\IDEA\Project\src\project2\.idea" />
+      <recent name="D:\IDEA\Project\src\project2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build project2/day7errorhandle/4customerror/2customerror">
+    <configuration name="go build project2/day7errorhandle/2commonerror" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day7errorhandle/2commonerror/1commonerror.go" />
+      <package value="project2/day7errorhandle/2commonerror" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build project2/day7errorhandle/3exceptionhandle" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day7errorhandle/3exceptionhandle/exceptionhandle.go" />
+      <package value="project2/day7errorhandle/3exceptionhandle" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build project2/day7errorhandle/4customerror" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day7errorhandle/4customerror/customerror.go" />
+      <package value="project2/day7errorhandle/4customerror" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build project2/day7errorhandle/4customerror/2customerror" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day7errorhandle/4customerror/2customerror/2customerror.go" />
+      <package value="project2/day7errorhandle/4customerror/2customerror" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build project2/day8json/4jsonencodejsonfile" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day8json/4jsonencodejsonfile/4jsonencodejsonfile.go" />
+      <package value="project2/day8json/4jsonencodejsonfile" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build project2/day7errorhandle/4customerror/2customerror" />
+        <item itemvalue="Go Build.go build project2/day7errorhandle/4customerror" />
+        <item itemvalue="Go Build.go build project2/day7errorhandle/3exceptionhandle" />
+        <item itemvalue="Go Build.go build project2/day7errorhandle/2commonerror" />
+        <item itemvalue="Go Build.go build project2/day8json/4jsonencodejsonfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d9c9a2-8ad3-466b-b187-48ab2f83e4ef" name="Default Changelist" comment="" />
+      <created>1578817752845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578817752845</updated>
+      <workItem from="1578817756459" duration="1085000" />
+      <workItem from="1578925889315" duration="10098000" />
+      <workItem from="1579015280268" duration="6759000" />
+      <workItem from="1579100634045" duration="5098000" />
+      <workItem from="1579184316080" duration="5657000" />
+      <workItem from="1580565478588" duration="8829000" />
+      <workItem from="1580656493312" duration="6865000" />
+      <workItem from="1580739734713" duration="6648000" />
+      <workItem from="1581075571343" duration="130000" />
+      <workItem from="1581076442811" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="84" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1579189287668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="521" y="84" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579189287668" />
+    <state x="391" y="0" key="#go_build_project2/day1" timestamp="1578925955910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#go_build_project2/day1/0.0.1366.728@0.0.1366.728" timestamp="1578925955910" />
+    <state x="391" y="0" key="#go_build_project2/day3Object" timestamp="1578926282601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#go_build_project2/day3Object/0.0.1366.728@0.0.1366.728" timestamp="1578926282601" />
+    <state x="391" y="0" key="#go_build_project2/day7errorhandle/1defer" timestamp="1579184423674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#go_build_project2/day7errorhandle/1defer/0.0.1366.728@0.0.1366.728" timestamp="1579184423674" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1578818149476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578818149476" />
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom" timestamp="1580748284832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580748284832" />
+    <state width="1323" height="130" key="GridCell.Tab.0.center" timestamp="1580748284832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="130" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580748284832" />
+    <state width="1323" height="130" key="GridCell.Tab.0.left" timestamp="1580748284832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="130" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580748284832" />
+    <state width="1323" height="130" key="GridCell.Tab.0.right" timestamp="1580748284832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="130" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580748284832" />
+    <state x="196" y="11" key="SettingsEditor" timestamp="1581075687121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="196" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581075687121" />
+    <state x="656" y="116" width="552" height="524" key="StructurePopup" timestamp="1580571997154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="656" y="116" width="552" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1580571997154" />
+    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1579021914690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1579021914690" />
+    <state x="57" y="0" key="new project wizard" timestamp="1578818611949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578818611949" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578928294302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578928294302" />
+    <state x="473" y="158" width="672" height="678" key="search.everywhere.popup" timestamp="1580743428833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="473" y="158" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580743428833" />
+  </component>
+</project>
